@@ -1,9 +1,9 @@
 <img width="1300" height="405" alt="image" src="https://github.com/user-attachments/assets/2e23bcd9-e3b1-4bc7-937b-6845e2406fb9" />
 
-Cadastro-CEP
+Cadastro-CEP --
 Projeto simples de formulário de cadastro que integra busca automática de endereço a partir do CEP utilizando a API ViaCEP. Desenvolvido com HTML, CSS (Bootstrap) e JavaScript (jQuery).
 
-Funcionalidades
+Funcionalidades --
 Máscara para campo CEP com formatação automática.
 
 Busca de endereço via API ViaCEP ao inserir o CEP.
@@ -27,7 +27,7 @@ JavaScript (jQuery)
 
 API ViaCEP para consulta de CEP
 
-Como usar
+Como usar --
 Preencha os dados do formulário.
 
 Informe um CEP válido e clique no ícone de busca para preencher automaticamente o endereço.
