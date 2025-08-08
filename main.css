@@ -1,0 +1,37 @@
+body {
+    background: #f8f9fa;
+    padding: 2rem 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h4 {
+    color: #343a40;
+    margin-bottom: 1rem;
+}
+
+form {
+    background: white;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+input.form-control {
+    height: 45px;
+    font-size: 1rem;
+}
+
+#btn-buscar-cep {
+    margin-left: 0.5rem;
+}
+
+button[type="submit"] {
+    width: 100%;
+    font-size: 1.1rem;
+    padding: 0.75rem;
+}
+
+#btn-buscar-cep .spinner-border {
+    margin-left: 0.3rem;
+    color: white;
+}
